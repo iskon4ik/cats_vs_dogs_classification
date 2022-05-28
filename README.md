@@ -1,6 +1,6 @@
 # Cats vs Dogs Image Classification
-Image Classification on famous Cats vs. Dogs dataset.
-Dataset downloaded from Kaggle Competition: [Dogs vs. Cats](https://www.kaggle.com/competitions/dogs-vs-cats/).
+Image Classification on famous Cats vs. Dogs dataset.  
+Dataset downloaded from Kaggle Competition: [Dogs vs. Cats](https://www.kaggle.com/competitions/dogs-vs-cats/).  
 Model was based on pretrained **ResNet34**.
 
 ## Stack used:
